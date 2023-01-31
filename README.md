@@ -42,3 +42,14 @@ Azure link :https://jolly-field-0f8e4a910.2.azurestaticapps.net
 
 ![Screenshot (664)](https://user-images.githubusercontent.com/110903647/215850897-8c254326-b2ff-4707-aeab-900614cf8d7a.png)
 
+
+
+## Tech stack
+
+1.HTML
+
+2.CSS
+
+3.Bootstrap
+
+4.Azure (Hosting)
