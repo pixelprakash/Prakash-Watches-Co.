@@ -42,6 +42,8 @@ Azure link :https://jolly-field-0f8e4a910.2.azurestaticapps.net
 
 ![Screenshot (664)](https://user-images.githubusercontent.com/110903647/215850897-8c254326-b2ff-4707-aeab-900614cf8d7a.png)
 
+![Screenshot (665)](https://user-images.githubusercontent.com/110903647/215859526-6a0f0e2d-8467-43c0-b31d-7422d4499c7d.png)
+
 
 
 ## Tech stack
